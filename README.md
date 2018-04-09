@@ -11,8 +11,8 @@ Original code(C implementation) & paper : http://pjreddie.com/darknet/yolo/
 My code is for algorithm studying:
 Using low level tensorflow code, without tf.contrib.slim, tflearn.Trainer() etc
 
-Two main reference codes for my implementation:
-https://github.com/gliese581gg/YOLO_tensorflow/YOLO_small_tf.py
+Two main reference codes for my implementation:  
+https://github.com/gliese581gg/YOLO_tensorflow/YOLO_small_tf.py  
 https://github.com/hizhangp/yolo_tensorflow
 
 
