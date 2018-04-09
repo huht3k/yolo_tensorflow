@@ -16,7 +16,7 @@ https://github.com/gliese581gg/YOLO_tensorflow/YOLO_small_tf.py
 https://github.com/hizhangp/yolo_tensorflow
 
 
-###2.Install 
+###2.Install   
 (1) Download code
 
 (2) Download YOLO weight file from
