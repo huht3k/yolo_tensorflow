@@ -2,7 +2,7 @@
 
 (Version 0.3, Last updated :2018.04.02)
 
-###1.Introduction
+### 1.Introduction
 
 This is tensorflow implementation of the YOLO:Real-Time Object Detection
 
@@ -16,7 +16,7 @@ https://github.com/gliese581gg/YOLO_tensorflow/YOLO_small_tf.py
 https://github.com/hizhangp/yolo_tensorflow
 
 
-###2.Install   
+### 2.Install   
 (1) Download code
 
 (2) Download YOLO weight file from
@@ -31,7 +31,7 @@ YOLO_small : https://drive.google.com/file/d/0B2JbaJSrWLpza08yS2FSUnV2dlE/view?u
 	```
 (5) Modify configuration in `yolo/config.py`
 
-###3.Usage
+### 3.Usage
   Training
 	```Shell
 	$ python train.py
@@ -40,12 +40,12 @@ YOLO_small : https://drive.google.com/file/d/0B2JbaJSrWLpza08yS2FSUnV2dlE/view?u
 	```Shell
 	$ python test.py
 	```
-###4.Requirements
+### 4.Requirements
 
 - Tensorflow
 - Opencv2
 
-###5.Copyright
+### 5.Copyright
 
 According to the LICENSE file of the original code, 
 - Me and original author hold no liability for any damages
